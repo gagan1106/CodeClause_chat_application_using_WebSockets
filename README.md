@@ -1,6 +1,4 @@
-# CodeClause_chat_application_using_WebSockets
-
-![image](https://github.com/gagan1106/CodeClause_chat_application_using_WebSockets/assets/112796038/c1ce70d0-a32b-4872-b72e-cab5ee15238b)
+#chat_application_using_WebSockets
 
 To start the application run command " npm start "
 
